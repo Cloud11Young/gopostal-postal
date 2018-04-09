@@ -1,0 +1,119 @@
+﻿  alphablit.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  BLIT.CPP
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  BLITINIT.CPP
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  BLiTT.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  CFNT.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  Fspr1.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  FSPR8.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  line.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  mono.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  Rotate96.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\green\blit\rotate96.cpp(919): warning C4244: “初始化”: 从“double”转换到“int16_t”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\green\blit\rotate96.cpp(966): warning C4244: “=”: 从“double”转换到“int16_t”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\green\blit\rotate96.cpp(967): warning C4244: “=”: 从“double”转换到“int16_t”，可能丢失数据
+  RPrint.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\green\blit\rprint.cpp(416): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“vsprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\green\blit\rprint.cpp(429): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“vsprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\green\blit\rprint.cpp(445): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“vsprintf”的声明
+  ScaleFlat.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+  正在生成代码...
+  BLiT.vcxproj -> F:\YQ\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\.\Build\BLiT\Debug\BLiT.lib

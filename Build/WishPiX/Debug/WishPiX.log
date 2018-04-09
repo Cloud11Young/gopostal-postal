@@ -1,0 +1,192 @@
+﻿  menu.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\meter\meter.h(192): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(408): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(416): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(424): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(432): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(499): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(507): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(515): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(523): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\character.h(460): warning C4244: “参数”: 从“double”转换到“int16_t”，可能丢失数据
+  prefline.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefline.cpp(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefline.cpp(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefline.cpp(188): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefline.cpp(313): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefline.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+  prefs.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(204): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(211): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(217): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(224): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(325): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(331): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(377): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(382): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(383): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(392): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(403): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(419): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(420): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(437): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(445): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(451): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(457): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(464): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(549): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(592): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(640): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(652): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(656): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(665): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(680): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(696): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(712): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(728): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(744): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(760): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(776): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(792): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(955): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(965): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(970): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(989): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1021): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1051): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1081): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1112): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1143): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1204): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\wishpix\prefs\prefs.cpp(1251): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(168) : 参见“strerror”的声明
+  resmgr.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(408): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(416): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(424): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(432): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(499): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(507): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(515): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(523): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  spry.cpp
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(247): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(253): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\blue\unix\unixsystem.h(259): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(346) : 参见“_snprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(192): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\quickmath\quickmath.h(193): warning C4244: “=”: 从“S64”转换到“S32”，可能丢失数据
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\meter\meter.h(192): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(408): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(416): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(424): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(432): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(499): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(507): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(515): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+f:\yq\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\rspix\src\orange\rstring\rstring.h(523): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+  正在生成代码...
+  WishPiX.vcxproj -> F:\YQ\sourcecode\test\gopostal-postal-1-open-source-67ed6c69603e\.\Build\WishPiX\Debug\WishPiX.lib
